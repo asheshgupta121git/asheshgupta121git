@@ -69,10 +69,17 @@ I am <b>Asheh gupta </b>, I am  B.Tech in CSE. I'm a passionate software develop
   <a href="https://github.com/asheshgupta121git" target="_blank" >
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="52" height="40" alt="github logo"/>
   </a> 
+  <a href="https://www.leetcode.com/guptaashesh180" target="blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="guptaashesh180" height="40" width="52" /></a>
   
 </div>
 
-###
+## Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asheshgupta121git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="250" width="850" alt="languages graph"  />
+</div>
+
+
 
 
 
