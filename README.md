@@ -1,5 +1,5 @@
 # About Me
-I am <b>Asheh gupta </b>, I am  B.Tech in CSE. I'm a passionate software developer with a focus on <b>Java and web development</b>. I started my journey by learning Java, and now I'm diving into the <b>MERN stack</b> to build dynamic, full-stack web applications.
+I am <b>Asheh Gupta </b>, I am  <b>B.Tech in CSE</b>. I'm a passionate software developer with a focus on <b>Java and web development</b>. I started my journey by learning Java, and now I'm diving into the <b>MERN stack</b> to build dynamic, full-stack web applications.
 
 <img
   align="right"
