@@ -1,4 +1,4 @@
-# About Me
+# About Me:
 I am <b>Asheh Gupta </b>, I am  <b>B.Tech in CSE</b>. I'm a passionate software developer with a focus on <b>Java and web development</b>. I started my journey by learning Java, and now I'm diving into the <b>MERN stack</b> to build dynamic, full-stack web applications.
 
 <img
@@ -45,7 +45,7 @@ I am <b>Asheh Gupta </b>, I am  <b>B.Tech in CSE</b>. I'm a passionate software 
 </p>
 
 
-## Stats
+## Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asheshgupta121git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
@@ -74,7 +74,7 @@ I am <b>Asheh Gupta </b>, I am  <b>B.Tech in CSE</b>. I'm a passionate software 
   
 </div>
 
-## Top Languages
+## Top Languages:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asheshgupta121git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="250" width="850" alt="languages graph"  />
 </div>
