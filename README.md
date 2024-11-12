@@ -83,8 +83,7 @@ I am <b>Asheh gupta </b>, I am  B.Tech in CSE. I'm a passionate software develop
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/asheshgupta121git /asheshgupta121git /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/asheshgupta121git/asheshgupta121git/output/snake.svg" alt="Snake animation" />
 
 ###
 
