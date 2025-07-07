@@ -11,7 +11,7 @@ I am <b>Asheh Gupta </b>, I am  <b>B.Tech in CSE</b>. I'm a passionate software 
 - 🔭 <b>I’m currently working on </b>"Learning the <b>MERN stack (MongoDB, Express.js, React, Node.js)</b>"
 - 🌱 I’m currently learning <b>React</b>
 - 💬 Ask me about Time Management 
-- 📫 How to reach me: <b>asheshgupta121@gmail.com</b>
+- 📫 How to reach me: <b>guptaashesh180@gmail.com</b>
 - 😄 Pronouns: Coder/Programmer
 - ⚡ Fun fact: "keep programming simple"
 
