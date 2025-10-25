@@ -1,5 +1,10 @@
 # About Me:
-I am <b>Asheh Gupta </b>, I am  <b>B.Tech in CSE</b>. I'm a passionate software developer with a focus on <b>Java and web development</b>. I started my journey by learning Java, and now I'm diving into the <b>MERN stack</b> to build dynamic, full-stack web applications.
+I am **Asheh Gupta**, a **B.Tech in CSE** graduate and passionate software developer currently working as a **React Developer** and **JavaScript Trainer**. My expertise spans **full-stack web development** with a strong focus on the **MERN stack**, building dynamic and scalable web applications.
+
+I started my development journey with Java and have evolved into modern web technologies. Currently, I'm expanding my skill set by learning **Azure cloud services** and exploring the fascinating world of **Artificial Intelligence and Machine Learning**. I enjoy sharing knowledge through training and mentoring, helping others master JavaScript and React development.
+
+My focus areas include **React.js**, **Node.js**, **JavaScript**, **cloud technologies**, and emerging **AI/ML** technologies as I continue building innovative solutions and teaching the next generation of developers.
+
 
 <img
   align="right"
