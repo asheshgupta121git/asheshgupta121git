@@ -14,10 +14,9 @@ My focus areas include **React.js**, **Node.js**, **JavaScript**, **cloud techno
 
 
 - 🔭 <b>I’m currently working on </b>"Learning the <b>MERN stack (MongoDB, Express.js, React, Node.js)</b>"
-- 🌱 I’m currently learning <b>React</b>
+- 🌱 I’m currently learning <b>Cloud Technologies</b>
 - 💬 Ask me about Time Management 
 - 📫 How to reach me: <b>guptaashesh180@gmail.com</b>
-- 😄 Pronouns: Coder/Programmer
 - ⚡ Fun fact: "keep programming simple"
 
 <h2 align="left">Languages, Frameworks, Lib. and Tools :</h2>
